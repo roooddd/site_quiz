@@ -1,1 +1,2 @@
-# site_quiz
+# site resultado de estudos de HTML, CSS e JS
+Um quiz com perguntas básicas sobre programação
